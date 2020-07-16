@@ -32,6 +32,7 @@ cc_defaults {
         "-Wno-register",
         "-Wno-shift-count-overflow",
         "-Wno-sign-compare",
+        "-Wno-strict-prototypes",
         "-Wno-tautological-compare",
         "-Wno-tautological-constant-out-of-range-compare",
         "-Wno-unused-parameter",
